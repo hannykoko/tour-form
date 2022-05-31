@@ -62,6 +62,7 @@
        
         <li>
             <strong>File:</strong>
+            <br>
             
             <img src="{{asset('storage/'.$file)}}" class="img-fluid">
         </li>
